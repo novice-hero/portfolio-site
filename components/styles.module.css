@@ -93,6 +93,10 @@
   color: #2795e9;
 }
 
+.tistory:hover {
+  color: #ff5a4a;
+}
+
 .mastodon:hover {
   color: #5a4be1;
 }
