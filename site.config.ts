@@ -59,6 +59,10 @@ export default siteConfig({
     {
       title: 'Contact',
       pageId: 'd1c6bcbf8aaf4d2db76bb1e13e20cd61'
+    },
+    {
+      title: 'Peer Review',
+      pageId: 'fef17164e3ea47a3a53fa91a998cd708'
     }
   ]
 })
